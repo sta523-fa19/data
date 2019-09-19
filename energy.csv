@@ -1,0 +1,106 @@
+MWhperDay,name,type,location,note,boe
+3,Chernobyl Solar,Solar,Ukraine,On the site of the former nuclear reactor,0
+637,Solarpark Meuro,Solar,Germany,NA,55
+920,Tesla's proposed virtual power plant,Solar,South Australia,"50,000 homes with solar panels and battery storage",79
+1280,Quaid-e-Azam,Solar,Pakistan,"Named in honor of Quaid-e-Azam Muhammad Ali Jinnah, the founder of Pakistan. Criticised for the amount of water used to keep its panels clean and efficient.",110
+1760,Topaz,Solar,USA,NA,152
+2025,Agua Caliente,Solar,USA,Arizona,175
+2466,Kamuthi,Solar,India,"""150,000"" homes",213
+2720,Longyangxia,Solar,China,NA,234
+3840,Kurnool,Solar,India,NA,331
+4950,Tengger Desert,Solar,China,"Covers 3.2% of the land area of the Tengger desert. Dubbed the ""Great Wall of Solar"".",427
+4971,Noor,Solar,Morocco,largest CSP plant in the world,429
+6400,Shakti Sthala,Solar,India,"Largest in the world. As far as I can tell, 2000MW should be online now. 700,000 Indian households",552
+700,San Martino,Geothermal,Italy,NA,60
+6722,Hellisheiði,Geothermal,Iceland,Extracts energy from wells 2-3km deep.,580
+6766,Makban,Geothermal,Philippines,NA,583
+7685,Gunung Salak,Geothermal,Indonesia,"Indonesia's geothermal potential is huge, but under-exploited. Profits have been used to fund a boarding school for girls in the rural area where it is sited.",663
+9324,Unified Leyte,Geothermal,Phillipines,NA,804
+10369,Cerro Prieto,Geothermal,Mexico,NA,894
+16085,Larderello,Geothermal,Italy,"Oldest geothermal power plant in the world, built in 1913",1387
+23000,The Geysers,Geothermal,USA,NA,1983
+1093,Atikokan-G1,Biomass,Canada,NA,94
+1729,MONTES DEL PLATA,Biomass,Uruguay,NA,149
+2064,Aracruz,Biomass,Brazil,NA,178
+2214,Polaniec,Biomass,Poland,powered by agricultural byproducts and wood residue,191
+2773,Toppila 1 ja 2,Biomass,Finland,NA,239
+2862,Alholmenskraft,Biomass,Finland,NA,247
+2894,Rodenhuize 4,Biomass,Belgium,"Built as a coal plant, converted to biomass between 2005 and 2010.",250
+3239,Klabin Celulose,Biomass,Brazil,NA,279
+4201,Värtaverket,Biomass,Sweden,NA,362
+5702,Zolling,Biomass,Germany,NA,492
+47956,Drax,Biomass,UK,The first power station in the UK to be fuelled solely by wood. Converted from coal between 2008 and 2018.,4134
+70,Mt Stuart farm,Wind,New Zealand,onshore,6
+80,Utgrunden,Wind,Sweden,"offshore. Built in 2000, decomissioned due to old age in 2018.",7
+342,Block Island,Wind,Rhode Island,"offshore, calc'ed from 125GW-h/365",29
+358,Brechfa Forest West,Wind,Wales,onshore,31
+2247,Thanet,Wind,UK,offshore,194
+2396,Horns Rev 2,Wind,Denmark,offshore,207
+3500,Whitelee?,Wind,UK,onshore,302
+3562,DanTysk,Wind,Germany,offshore,307
+4675,Anholt Farm,Wind,Denmark,offshore,403
+4184,Walney Island,Wind,UK,offshore,361
+5400,Muppandal Farm,Wind,India,"onshore, located on the southern tip of India, powered by seasonal monsoon winds from the Arabian Sea.",466
+5587,Gode 1 & 2,Wind,Germany,offshore,482
+5760,Fantanele-Cogealac,Wind,Romania,onshore,497
+6262,Gwynt y Môr,Wind,Wales,"offshore, 4th largest operating wind farm in the world",540
+6849,London Array,Wind,UK,offshore,590
+7117,Walney extension,Wind,UK,"offshore, powers 600,000 UK homes",614
+7342,Alta Energy Centre,Wind,USA,onshore,633
+8640,Vineyard Wind project,Wind,USA,"onshore, Massachusetts, largest offshore, completed in 2021",745
+11520,Hornsea Wind Farm (current),Wind,UK,offshore,993
+24000,Gansu Wind Farm,Wind,China,onshore,2069
+28800,Greater Changhau,Wind,Taiwan,offshore,2483
+46080,Dogger Bank,Wind,UK,"offshore, finished in 2025, 23041 MWh calc based on 8410Gwh per year. Water depth in the area is just 15m.",3972
+57600,Hornsea Wind Farm (eventual),Wind,UK,offshore,4966
+1600,Kohone,Coal,Senegal,NA,138
+36000,Arnot,Coal,S. Africa,"Located on top of Arnot coal mine, one of the largest coal reserves in Africa.",3103
+51000,Gibson Generating Station,Coal,USA,NA,4397
+52800,Boryeong,Coal,S. Korea,NA,4552
+54120,Hekinan,Coal,Japan,NA,4666
+64512,Mailao,Coal,Taiwan,NA,5561
+67056,Yeongheung,Coal,S. Korea,Its cooling systems drive a trio of small hydroelectric plants.,5781
+71000,Mundra Thermal Station,Coal,India,NA,6121
+84480,Tiachung,Coal,Taiwan,The largest operating coal plant in the world,7283
+30624,Hirono,Oil,Japan,NA,2640
+35065,Rabigh,Oil,Saudi Arabia,Attached to a major desalination plant,3023
+30624,Kashima,Oil,Japan,NA,2640
+54787,Shaiba,Oil,Saudi Arabia,NA,4723
+56670,Sabiya,Oil,Kuwait,NA,4885
+61301,Az Zour South Thermal,Oil,Kuwait,NA,5285
+47952,Chita,Gas,Japan,"At 3,996MW installed capacity, the Chita thermal power station located in Chita, Aichi, Japan, is the world’s fifth biggest natural gas power plant.",4134
+52608,Dah-Tarn,Gas,Taiwan,"The 4,384MW Dah-Tarn (Tatan) power plant located in Guanyin, Taoyuan, in Northern Taiwan is the world’s fourth biggest gas-fired power plant.",4535
+57093,Futtsu,Gas,Japan,"The 5,040MW Futtsu liquefied natural gas (LNG)-based thermal power station located in Chiba, Japan, is currently the world’s seventh biggest thermal power plant.",4922
+64539,Kawagoe,Gas,Japan,"Chubu Electric Power Company’s Kawagoe thermal power station located in Kawagoe, Mie, Japan, with 4,802 MW installed capacity, ranks as the world’s third biggest gas-fired power station.",5564
+77760,Sodegaura,Gas,Japan,NA,6703
+103896,Higashi Niigata,Gas,Japan,NA,8957
+109178,Surgutskaya GRES-2,Gas,Russia,"Built in 1979 to power the extraction of minerals in Siberia. At 5,597MW installed capacity, Surgutskaya GRES-2 (Sugrut-2), a combined cycle power plant located in the Russian city of Surgut, is the world’s biggest gas-fired power station. The facility is owned and operated by E.ON Russia.",9412
+17065,Kaiga,Nuclear,India,NA,1471
+24163,Sizewell B,Nuclear,UK,NA,2083
+26000,Torness,Nuclear,UK,Shut down in 2011 by a swarm of jellyfish.,2241
+38000,Nine Mile Point,Nuclear,USA,NA,3276
+58546,Hongyanhe,Nuclear,China,NA,5047
+64320,Chernobyl,Nuclear,Ukraine,"One reactor suffered major damage during the 1986 accident. The other three continued operation, and the plant was finally shut down permanently in 2000.",5545
+65000,Ovaux,Nuclear,France,NA,5603
+78049,Fukushima Daiichi,Nuclear,Japan,Suffered major damage from the 2011 Japan tsunami. Still offline.,6728
+85417,Palo Verde,Nuclear,USA,largest US nuclear power station in USA,7364
+87608,Qinshan,Nuclear,China,NA,7552
+91757,Kashiwazaki-Kariwa,Nuclear,Japan,"largest nuclear plant in the world (by MW), currently shut!",7910
+100772,Paluel,Nuclear,France,NA,8687
+118460,Gravelines,Nuclear,France,"6th largest in world, 2nd largest in Europe",10212
+123667,Zaporizhia,Nuclear,Ukraine,"5th largest, 20% of country's electricity, largest in Europe",10661
+127985,Hanbit,Nuclear,S. Korea,NA,11033
+128180,Hanul,Nuclear,S. Korea,"4th largest, due to increase to 8608MW in 2018?",11050
+130464,Kori,Nuclear,S. Korea,3rd largest,11247
+137894,Bruce,Nuclear,Canada,"Ontario, 2nd biggest in the world. Largest operating reactor in the world.",11887
+10959,Hoover Dam,Hydro,USA,Contains enough concrete to build a road between the west and east coasts of the US. Hoover wasn't invited to the dam's dedication ceremony.,945
+54795,Grand Coulee,Hydro,United States,NA,4724
+84110,Xiangjiaba,Hydro,China,NA,7251
+113507,Tucurui,Hydro,Brazil,NA,9785
+128767,Guri,Hydro,Venezuela,Provides 70-80% of Venezuela's power. Its failure in 2019 caused widespread blackouts. The government blamed it on sabotage. Experts blamed it on lack of maintainence.,11101
+143014,Xiluodu,Hydro,China,NA,12329
+146619,Baihetan Dam,Hydro,China,"Under construction, expected to be complete in 2021.",12640
+270685,Three Gorges Dam,Hydro,China,Construction displaced 1.3 million people.,23335
+282461,Itaipu Dam,Hydro,Brazil / Paraguay,"The Itaipu Dam produced the most energy of hydroelectric plant in the world as of 2016, setting a new world record of 103,098,366 megawatt hours (MWh), and surpassed the Three Gorges Dam plant in energy production in 2015 and 2016.",24350
+60274,Bitcoin per day,Other,NA,NA,5196
+15616,Google per day,Other,NA,NA,1346
